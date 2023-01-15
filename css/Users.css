@@ -1,0 +1,42 @@
+#border {
+    width: 350px;
+    padding: 10px;
+    border: 3px solid rgb(2, 2, 2);
+    margin: 0;
+    border-radius: 20%;
+    border-color: aqua;
+    }
+    #border {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     }
+    #border {
+    position: absolute;
+    top: 15%;
+    right: 40%;
+    width: 450;
+    height: 70%;
+    
+    }
+
+    /* body {  
+        background-image: url("../imgs/gettyimages-1281429308-612x612.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+        }*/
+        body {
+            background-color: blanchedalmond;
+        }
+
+        #buttonposition
+  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    body{
+        font-style: oblique;
+      }
+    
