@@ -1,0 +1,47 @@
+#login {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#border {
+width: 450px;
+padding: 10px;
+border: 5px solid rgb(2, 2, 2);
+margin: 0;
+}
+ #border {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+#border {
+        position: absolute;
+        top: 25%;
+        right: 30%;
+        width: 450;
+        height: 25%;
+}
+#main table table, th, td {
+border: 2px solid black;
+border-radius: 10px;
+}
+
+/*body {
+    background: url(./imgs/fonts1.jpg) no-repeat center;
+    background-size: cover;
+    <!--height: 500px;-->
+    <!--position: relative;-->
+  }
+*/
+/*body { 
+    background-image: url("../imgs/gettyimages-165045331-612x612.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }*/
+    body {
+      background-color: blanchedalmond;
+  }
+
+  
